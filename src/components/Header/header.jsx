@@ -5,7 +5,7 @@ import siteLogo from "../../assets/Logo.svg"
 const Header = () => {
     return (
         <header className="bg-white">
-            <nav className="mx-auto flex max-w-7xl items-center justify-between p-8 lg:px-9">
+            <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-9">
                 <div className="flex items-center space-x-10">
                     <img src={siteLogo} alt="logo" />
                     <span>
