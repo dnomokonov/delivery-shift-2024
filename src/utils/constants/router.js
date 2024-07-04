@@ -1,3 +1,7 @@
 export const ROUTES = {
-  ROOT: '/'
+  ROOT: '/',
+  LOGIN: '/login',
+  LOGOUT: '/logout',
+  PROFILE: '/profile',
+  HISTORY: '/history'
 };
